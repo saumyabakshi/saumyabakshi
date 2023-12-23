@@ -141,12 +141,3 @@
 
 ###
 
-<p align="left">Contributions</p>
-
-###
-
-<br clear="both">
-
-<img src="https://github.com/saumyabakshi/saumyabakshi/blob/output/snake.svg" alt="Snake animation" />
-
-###

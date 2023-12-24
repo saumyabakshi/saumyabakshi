@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">Feel free to reach out to me</p>
+<p align="left">I'm interested in building scalabe solutions and solving impactful problems. Feel free to reach out to me.</p>
 
 ###
 
